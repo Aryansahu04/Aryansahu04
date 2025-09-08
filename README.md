@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Full Stack Web Development projects<br>👯 I’m looking to collaborate on MERN / Next.js projects<br>🤝 I’m looking for help with Advanced Backend Optimization<br>🌱 I’m currently learning Advanced DevOps <br>💬 Ask me about React, Typescript, NextJS, Node.js & MongoDB<br>⚡ Fun fact: I turn coffee into clean, reusable code
 
 
